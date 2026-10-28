@@ -1,14 +1,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:6A00F5,100:00C9FF&height=220&section=header&text=ASHKAN%20SALMANZADEH&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BACKEND%20DEVELOPER&descSize=18&descAlignY=55" width="100%" alt="Ashkan Salmanzadeh banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:6A00F5,100:00C9FF&height=220&section=header&text=ASHKAN%20SALMANZADEH&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=JUNIOR%20BACKEND%20DEVELOPER&descSize=18&descAlignY=55" width="100%" alt="Ashkan Salmanzadeh banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=00C9FF&center=true&vCenter=true&width=650&lines=PHP+%7C+Laravel+Developer;Building+APIs+%26+Backend+Systems;PostgreSQL+%7C+Docker;Always+Learning+Something+New" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=00C9FF&center=true&vCenter=true&width=650&lines=Junior+Backend+Developer;PHP+%7C+Laravel;PostgreSQL+%7C+Docker;Python+%7C+C%2B%2B+%7C+C%23;Always+Learning+Something+New" alt="Typing animation"/>
 
 <br/>
 
 <a href="https://github.com/ashkansalmanz">
-  <img src="https://img.shields.io/badge/GitHub-ashkansalmanz-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+<img src="https://img.shields.io/badge/GitHub-ashkansalmanz-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=ashkansalmanz&style=for-the-badge&color=8A2BE2" alt="Profile views"/>
 
@@ -20,18 +20,19 @@
 
 ```text
 Name      : Ashkan Salmanzadeh
-Role      : Backend Developer
-Focus     : APIs, Backend Systems & Database Design
-Interests : Software Architecture & Automation
-Goal      : Build reliable and maintainable applications
+Role      : Junior Backend Developer
+Focus     : Backend Development & REST APIs
+Learning  : Software Architecture & Database Design
+Goal      : Become a skilled and professional developer
 ```
 
-- 💻 Interested in backend development and software architecture
+- 🌱 Junior Backend Developer, continuously learning and improving
 - ⚙️ Working with PHP and Laravel
 - 🗄️ Exploring PostgreSQL and relational database design
-- 🐳 Working with Docker and containerized applications
+- 🐳 Learning and working with Docker
 - 🔌 Interested in REST APIs and service integrations
-- 🎯 Focused on clean, maintainable and reliable code
+- 💻 Developing programming skills with Python, C++ and C#
+- 🎯 Focused on clean, readable and maintainable code
 
 ---
 
@@ -47,9 +48,9 @@ Goal      : Build reliable and maintainable applications
 
 <img src="https://skillicons.dev/icons?i=postgres,docker,git,github&theme=dark" alt="PostgreSQL, Docker, Git and GitHub"/>
 
-### Development Tools
+### Programming Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,js,html,css&theme=dark" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=vscode,python,cpp,cs&theme=dark" alt="VS Code, Python, C++ and C#"/>
 
 </div>
 
@@ -85,8 +86,8 @@ Goal      : Build reliable and maintainable applications
 
 <div align="center">
 
-<a href="https://github.com/ashkansalmanz/ashkansalmanz">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashkansalmanz&repo=ashkansalmanz&theme=tokyonight&hide_border=true" alt="Profile README repository"/>
+<a href="https://github.com/ashkansalmanz/our-project">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashkansalmanz&repo=our-project&theme=tokyonight&hide_border=true" alt="Our project"/>
 </a>
 
 </div>
@@ -96,6 +97,8 @@ Goal      : Build reliable and maintainable applications
 <div align="center">
 
 ### 💜 Thanks for visiting my profile!
+
+*Learning every day. Building step by step. Growing as a developer.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:6A00F5,100:090014&height=120&section=footer" width="100%" alt="Footer banner"/>
 
